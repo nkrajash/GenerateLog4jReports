@@ -1,0 +1,43 @@
+23:08:15.072 [main] INFO  com.freecrm.tests.LoginTest - ****************************** Starting test cases execution  *****************************************
+23:08:25.366 [main] INFO  com.freecrm.tests.LoginTest - launching chrome browser
+23:08:33.818 [main] INFO  com.freecrm.tests.LoginTest - entering application URL
+23:08:33.818 [main] WARN  com.freecrm.tests.LoginTest - Hey this just a warning message
+23:08:33.819 [main] FATAL com.freecrm.tests.LoginTest - hey this is just fatal error message
+23:08:33.819 [main] DEBUG com.freecrm.tests.LoginTest - this is debug message
+23:08:33.844 [main] INFO  com.freecrm.tests.LoginTest - ****************************** starting test case *****************************************
+23:08:33.845 [main] INFO  com.freecrm.tests.LoginTest - ****************************** CRMPROTitleTest *****************************************
+23:08:33.861 [main] INFO  com.freecrm.tests.LoginTest - login page title is--->CRMPRO - CRM software for customer relationship management, sales, and support.
+23:08:33.871 [main] INFO  com.freecrm.tests.LoginTest - ****************************** ending test case *****************************************
+23:08:33.871 [main] INFO  com.freecrm.tests.LoginTest - ****************************** CRMPROTitleTest *****************************************
+23:08:41.405 [main] INFO  com.freecrm.tests.LoginTest - ****************************** Browser is closed *****************************************
+23:08:41.411 [main] INFO  com.freecrm.tests.LoginTest - ****************************** Starting test cases execution  *****************************************
+23:08:51.478 [main] INFO  com.freecrm.tests.LoginTest - launching chrome browser
+23:09:01.983 [main] INFO  com.freecrm.tests.LoginTest - entering application URL
+23:09:01.985 [main] WARN  com.freecrm.tests.LoginTest - Hey this just a warning message
+23:09:01.985 [main] FATAL com.freecrm.tests.LoginTest - hey this is just fatal error message
+23:09:01.985 [main] DEBUG com.freecrm.tests.LoginTest - this is debug message
+23:09:01.990 [main] INFO  com.freecrm.tests.LoginTest - ****************************** starting test case *****************************************
+23:09:01.990 [main] INFO  com.freecrm.tests.LoginTest - ****************************** CRMPROLogoTest *****************************************
+23:09:02.540 [main] INFO  com.freecrm.tests.LoginTest - ****************************** ending test case *****************************************
+23:09:02.540 [main] INFO  com.freecrm.tests.LoginTest - ****************************** CRMPROLogoTest *****************************************
+23:09:03.688 [main] INFO  com.freecrm.tests.LoginTest - ****************************** Browser is closed *****************************************
+23:09:57.200 [main] INFO  com.freecrm.tests.LoginTest - ****************************** Starting test cases execution  *****************************************
+23:10:03.973 [main] INFO  com.freecrm.tests.LoginTest - launching chrome browser
+23:10:11.046 [main] INFO  com.freecrm.tests.LoginTest - entering application URL
+23:10:11.047 [main] WARN  com.freecrm.tests.LoginTest - Hey this just a warning message
+23:10:11.048 [main] FATAL com.freecrm.tests.LoginTest - hey this is just fatal error message
+23:10:11.048 [main] DEBUG com.freecrm.tests.LoginTest - this is debug message
+23:10:11.070 [main] INFO  com.freecrm.tests.LoginTest - ****************************** starting test case *****************************************
+23:10:11.070 [main] INFO  com.freecrm.tests.LoginTest - ****************************** CRMPROTitleTest *****************************************
+23:10:11.097 [main] INFO  com.freecrm.tests.LoginTest - login page title is--->CRMPRO - CRM software for customer relationship management, sales, and support.
+23:10:11.101 [main] INFO  com.freecrm.tests.LoginTest - ****************************** ending test case *****************************************
+23:10:11.101 [main] INFO  com.freecrm.tests.LoginTest - ****************************** CRMPROTitleTest *****************************************
+23:10:12.028 [main] INFO  com.freecrm.tests.LoginTest - ****************************** Browser is closed *****************************************
+23:10:12.035 [main] INFO  com.freecrm.tests.LoginTest - ****************************** Starting test cases execution  *****************************************
+23:10:15.152 [main] INFO  com.freecrm.tests.LoginTest - launching chrome browser
+23:10:22.148 [main] INFO  com.freecrm.tests.LoginTest - entering application URL
+23:10:22.148 [main] WARN  com.freecrm.tests.LoginTest - Hey this just a warning message
+23:10:22.148 [main] FATAL com.freecrm.tests.LoginTest - hey this is just fatal error message
+23:10:22.148 [main] DEBUG com.freecrm.tests.LoginTest - this is debug message
+23:10:22.152 [main] INFO  com.freecrm.tests.LoginTest - ****************************** starting test case *****************************************
+23:10:22.152 [main] INFO  com.freecrm.tests.LoginTest - ****************************** CRMPROLogoTest *****************************************

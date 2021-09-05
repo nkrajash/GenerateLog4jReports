@@ -1,0 +1,19 @@
+23:10:23.106 [main] INFO  com.freecrm.tests.LoginTest - ****************************** ending test case *****************************************
+23:10:23.359 [main] INFO  com.freecrm.tests.LoginTest - ****************************** CRMPROLogoTest *****************************************
+23:10:24.305 [main] INFO  com.freecrm.tests.LoginTest - ****************************** Browser is closed *****************************************
+23:11:11.504 [main] INFO  com.amazon.tests.AmazonLoginTest - ****************************** Starting test cases execution  *****************************************
+23:11:11.513 [main] DEBUG com.amazon.tests.AmazonLoginTest - Setting chrome driver property
+23:11:16.857 [main] INFO  com.amazon.tests.AmazonLoginTest - launching chrome broswer
+23:11:17.318 [main] INFO  com.amazon.tests.AmazonLoginTest - Window Maximized
+23:11:17.545 [main] INFO  com.amazon.tests.AmazonLoginTest - Delete all cookies
+23:11:17.558 [main] INFO  com.amazon.tests.AmazonLoginTest - pageLoadTimeout  applied on the driver for 30 seconds
+23:11:17.576 [main] INFO  com.amazon.tests.AmazonLoginTest - Implicit wait applied on the driver for 10 seconds
+23:11:17.576 [main] DEBUG com.amazon.tests.AmazonLoginTest - Now hitting Amazon server
+23:11:24.448 [main] INFO  com.amazon.tests.AmazonLoginTest - entering application URL
+23:11:24.448 [main] INFO  com.amazon.tests.AmazonLoginTest - Landed on amazon home page
+23:11:24.469 [main] INFO  com.amazon.tests.AmazonLoginTest - ****************************** starting test case *****************************************
+23:11:24.470 [main] INFO  com.amazon.tests.AmazonLoginTest - ****************************** AmazonTitleTest *****************************************
+23:11:25.166 [main] INFO  com.amazon.tests.AmazonLoginTest - login page title is--->Amazon.com. Spend less. Smile more.
+23:11:25.170 [main] INFO  com.amazon.tests.AmazonLoginTest - ****************************** ending test case *****************************************
+23:11:25.171 [main] INFO  com.amazon.tests.AmazonLoginTest - ****************************** AmazonTitleTest *****************************************
+23:11:26.839 [main] INFO  com.amazon.tests.AmazonLoginTest - ****************************** Browser is closed *****************************************

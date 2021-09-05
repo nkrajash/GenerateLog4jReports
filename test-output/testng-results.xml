@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26642" started-at="2021-07-31T23:14:23 IST" finished-at="2021-07-31T23:14:50 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26642" started-at="2021-07-31T23:14:23 IST" finished-at="2021-07-31T23:14:50 IST">
+      <class name="com.freecrm.tests.LoginTest">
+        <test-method status="PASS" signature="setlog4j2Configuration()[pri:0, instance:com.freecrm.tests.LoginTest@60015ef5]" name="setlog4j2Configuration" is-config="true" duration-ms="18" started-at="2021-07-31T23:14:24 IST" finished-at="2021-07-31T23:14:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setlog4j2Configuration -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.freecrm.tests.LoginTest@60015ef5]" name="setup" is-config="true" duration-ms="13253" started-at="2021-07-31T23:14:24 IST" finished-at="2021-07-31T23:14:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CRMPROTitleTest()[pri:1, instance:com.freecrm.tests.LoginTest@60015ef5]" name="CRMPROTitleTest" duration-ms="159" started-at="2021-07-31T23:14:37 IST" finished-at="2021-07-31T23:14:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CRMPROTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.freecrm.tests.LoginTest@60015ef5]" name="tearDown" is-config="true" duration-ms="1023" started-at="2021-07-31T23:14:37 IST" finished-at="2021-07-31T23:14:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.freecrm.tests.LoginTest@60015ef5]" name="setup" is-config="true" duration-ms="10560" started-at="2021-07-31T23:14:38 IST" finished-at="2021-07-31T23:14:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CRMPROLogoTest()[pri:2, instance:com.freecrm.tests.LoginTest@60015ef5]" name="CRMPROLogoTest" duration-ms="425" started-at="2021-07-31T23:14:49 IST" finished-at="2021-07-31T23:14:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CRMPROLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.freecrm.tests.LoginTest@60015ef5]" name="tearDown" is-config="true" duration-ms="1089" started-at="2021-07-31T23:14:49 IST" finished-at="2021-07-31T23:14:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.freecrm.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
